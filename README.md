@@ -1,2 +1,1 @@
-# alx-Front-javascript
-ALX FrontEnd dev't
+What can you do with JS
